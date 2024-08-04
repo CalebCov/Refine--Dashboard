@@ -5,6 +5,6 @@ Build and deploy a full stack MERN application using Refine
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" width="100" height="100">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,materialui,typescript" width="250" height="250">
   </a>
 </div>
